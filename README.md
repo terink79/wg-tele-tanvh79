@@ -1,5 +1,7 @@
 **Đối với file Socks5.sh**
 
+_curl -o Socks5.sh -L https://raw.githubusercontent.com/terink79/wg-tele-tanvh79/refs/heads/main/Socks5.sh && sudo bash Socks5.sh_
+
 Chạy lệnh
 
 _nano run.sh_
@@ -24,7 +26,7 @@ Import vào và sử dụng!
 
 **Đối với file MTProto**
 
-_curl -o MTProtoProxyOfficialInstall.sh -L https://git.io/fjo3u && sudo bash MTProtoProxyOfficialInstall.sh_
+_curl -o MTProto.sh -L https://raw.githubusercontent.com/terink79/wg-tele-tanvh79/refs/heads/main/MTProto.sh && sudo bash MTProto.sh_
 
 Chạy lệnh 
 
