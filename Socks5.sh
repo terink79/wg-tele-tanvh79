@@ -1,13 +1,3 @@
-Chạy lệnh 
-nano run.sh
-chmod +x run.sh
-#Nếu có lỗi thì phải convert bằng lệnh dưới
-sudo apt install dos2unix
-dos2unix run.sh
-#Chạy
-./run.sh hoặc sudo ./run.sh
-
-
 #!/bin/bash
 
 # WireGuard + Telegram Proxy Setup - All-in-One Script
